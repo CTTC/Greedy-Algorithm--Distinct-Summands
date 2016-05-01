@@ -28,10 +28,10 @@ vector<int> optimal_summands(int n)
 
 int main() {
 	int n;
-	std::cin >> n;
+	std::cin >> n;  // Input the target number
 	vector<int> summands = optimal_summands(n);
 	std::cout << summands.size() << '\n';
 	for (size_t i = 0; i < summands.size(); ++i) {
-		std::cout << summands[i] << ' ';
+		std::cout << summands[i] << ' ';  // Output the summands
 	}
 }
