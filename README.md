@@ -1,5 +1,5 @@
 # Greedy-Algorithm--Distinct-Summands
-Use greedy algorithm to represent a given positive integer n as a sum of as many pairwise distinct positive integers as possible. The code is efficient to very large number as well.
+This is a simple application where greedy algorithm makes the code run very efficiently. Use greedy algorithm to represent a given positive integer n as a sum of as many pairwise distinct positive integers as possible. The code is efficient to very large number.
 Several examples are shown below. 
 <p>
 ``` 8 = 1 + 2 + 5 ```
